@@ -1,2 +1,2 @@
 # Redhat Openshift
-Used for discussing use cases of Redhat Openshift 
+Use cases of Redhat Openshift are explained here. 
