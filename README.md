@@ -2,4 +2,4 @@
 
 Use cases of Redhat Openshift are explained here. 
 
-![Watch the image](/Capture11.JPG)
+![Watch the image](/Capture12.JPG)
